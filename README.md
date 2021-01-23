@@ -1,6 +1,8 @@
 # Surgical-Phase-Recognition-
 Deep Temporal Model for Surgical Phase Recognition
+
 Demo notebook for laparoscopic cholecystectomy phase recognition using a CNN-biLSTM-CRF.
+
 Learning from a tiny dataset of manual annotations: a teacher/student approach for surgical phase recognition (IPCAI 2019)
 
 Tong Yu, Didier Mutter, Jacques Marescaux, Nicolas Padoy
